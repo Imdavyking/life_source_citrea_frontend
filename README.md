@@ -27,8 +27,8 @@ Contract
 ## Quickstart
 
 ```
-git clone https://github.com/Imdavyking/lifesource_frontend
-cd lifesource_frontend
+git clone https://github.com/Imdavyking/life_source_citrea_frontend
+cd life_source_citrea_frontend
 yarn
 ```
 
