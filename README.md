@@ -10,7 +10,8 @@ This is a solution that rewards users with token for recycling and use them to u
 # Methodolgy
 
 Contract
-[[lifeSource Contracts](https://github.com/Imdavyking/LifeSourceContracts)](https://github.com/Imdavyking/life_source_citrea_contracts)
+[lifeSource Contracts](https://github.com/Imdavyking/life_source_citrea_contracts)
+
 
 ## Requirements
 
