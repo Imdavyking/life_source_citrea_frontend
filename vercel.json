@@ -6,15 +6,15 @@
     },
     {
       "src": "/add-points",
-      "dest": "/add-points"
+      "dest": "/"
     },
     {
       "src": "/redeem-points",
-      "dest": "/redeem-points"
+      "dest": "/"
     },
     {
       "src": "/donate",
-      "dest": "/donate"
+      "dest": "/"
     }
   ]
 }
