@@ -65,7 +65,7 @@ const getContract = async () => {
   // ensure chain is Citrea
   await switchOrAddCitrea(signer.provider);
   return new ethers.Contract(
-    "0x04A24B8894fAf25989d47B2DeF745Ed098258b16",
+    "0x7b8DAfb189b8274FA34AE9965fB9e496Bdd609ED",
     abi,
     signer
   );
